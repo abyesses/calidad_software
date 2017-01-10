@@ -11,6 +11,6 @@ TEST(Factorial,positivos)
 TEST(Factorial,negativos)
 {
    ASSERT_EQ(1,factorial(0)); 
-   ASSERT_EQ(0,factorial(-3));
-   ASSERT_EQ(0,factorial(-1));
+   ASSERT_EQ(1,factorial(-3));
+   ASSERT_EQ(1,factorial(-1));
 }
