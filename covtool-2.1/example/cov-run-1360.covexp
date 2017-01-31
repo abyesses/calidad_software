@@ -1,0 +1,6 @@
+file: /Users/abraham/Desktop/Semestre Ene-May 2017/Calidad_Pruebas_de_Software/calidad_software/covtool-2.1/example/program.c 7 5 71
+el:  4 5 10 15 17 
+il:  4 5 7 10 12 15 17 
+file: /usr/include/stdio.h 4 0 0
+il:  353 354 355 357 
+totals: 11 5 45
